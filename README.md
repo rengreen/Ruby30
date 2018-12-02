@@ -42,7 +42,7 @@ https://www.hackerrank.com/challenges/30-inheritance/problem
 Day 13: Abstract Classes
 https://www.hackerrank.com/challenges/30-abstract-classes/problem
 
-Day 14: Scope
+Day 14: Scope (not for Ruby)
 https://www.hackerrank.com/challenges/30-scope/problem
 
 Day 15: Linked List
@@ -57,13 +57,13 @@ https://www.hackerrank.com/challenges/30-more-exceptions/problem
 Day 18: Queues and Stacks
 https://www.hackerrank.com/challenges/30-queues-stacks/problem
 
-Day 19: Interfaces
+Day 19: Interfaces (not for Ruby)
 https://www.hackerrank.com/challenges/30-interfaces/problem
 
 Day 20: Sorting
 https://www.hackerrank.com/challenges/30-sorting/problem
 
-Day 21: Generics
+Day 21: Generics (not for Ruby)
 https://www.hackerrank.com/challenges/30-generics/problem
 
 Day 22: Binary Search Trees
@@ -81,7 +81,7 @@ https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem
 Day 26: Nested Logic
 https://www.hackerrank.com/challenges/30-nested-logic/problem
 
-Day 27: Testing
+Day 27: Testing (not for Ruby)
 https://www.hackerrank.com/challenges/30-testing/problem
 
 Day 28: RegEx, Patterns, and Intro to Databases
